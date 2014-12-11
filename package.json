@@ -1,0 +1,23 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "super",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eyes2design/express-test.git"
+  },
+  "author": "Miles Maretich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyes2design/express-test/issues"
+  },
+  "homepage": "https://github.com/eyes2design/express-test",
+  "dependencies": {
+    "countryjs": "^1.0.3",
+    "express": "^4.10.4"
+  }
+}
